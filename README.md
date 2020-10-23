@@ -1,2 +1,2 @@
 You can start Keyclock with
-``docker-compose up -d`` 
+``docker-compose -f keycloak.yml up -d`` 
